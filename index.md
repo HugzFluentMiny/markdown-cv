@@ -76,7 +76,7 @@ This is where i started my career. In this role i was responsible for incident m
  - CIPP/E
  - SIAM (Service Integration and Management)
  
- ### Certified training (no exam done or involved)
+ #### Certified training (no exam done or involved)
  
  - Managing Succesful Program (MSP)
  - Risk Management
@@ -87,7 +87,7 @@ This is where i started my career. In this role i was responsible for incident m
  - CISM (Certified information security manager)
  - Business plan
  
- ### General Skills
+ #### General Skills
  
  - Coordinating tasks
  - Counselling
