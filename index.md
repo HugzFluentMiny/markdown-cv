@@ -9,13 +9,16 @@ title: Thomas Vanderstraeten
 | more details through an email request please.
 </div>
 
+
 ## Personal Statement
 
 I started at a helpdesk, got offered a project management role, evolved as service delivery manager, helped
 Proximus in reaching a leader position in the Belgian M2M market and delivered the largest, hosted data centre
 environment for a Proximus customer to date!
+Today i hold a position as program manager where i manage a transition into Azure along with a project for development of an application to help detect fraud.
 
 ### Employement
+
 `2019 - Present`
 __Proximus - Program Manager__
 - Belgian Mobile ID (Itsme Mobile App)
@@ -58,6 +61,7 @@ Customers included L'Oréal, Adecco, Standaard Boekhandel
 __Versatel NV - Technical Helpdesk__
 
 This is where i started my career. In this role i was responsible for incident management and change execution for the corporate customers.
+
 
 ### Skills
 
