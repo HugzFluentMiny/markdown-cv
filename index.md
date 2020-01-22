@@ -17,7 +17,7 @@ Proximus in reaching a leader position in the Belgian M2M market and delivered t
 environment for a Proximus customer to date!
 Today i hold a position as program manager where i manage a transition into Azure along with a project for development of an application to help detect fraud.
 
-### Employement
+## Employement
 
 `2019 - Present`
 __Proximus - Program Manager__
@@ -32,39 +32,45 @@ __Proximus - Program Manager__
 __Proximus - Service Delivery Manager__
 
 In my role as Service Delivery Manager i was responsible for many high profile Proximus customers. A short description of my tasks can be found below each customer. Communication and reporting to higher management and C-level is not mentioned as i consider this implied.
-Some of my most noteable customers are
+Some of my most noteable customers are:
+
 
 * Accenture - Atrias
 ``` Responsible for delivery and operations of a data center infrastructure for building a clearing house for the Belgian energy market.```
+
 * Belgian Mobile ID - Service Delivery Manage
 ```Responsible for the operation of a data center infrastructure for running a goverment supported mobile application for authentication.```
+
 * Nationale Bank België
 ```Responsible for the operations of networking services and inventory management```
+
 * Nationale Loterij België
 ```Responsible for the correct execution of all contractual defined ITIL services and continual service improvement in specific```
+
 * Satellic NV
 ```Responsible for the delivery and operations of a data center infrastructure, the delivery of 1,5million M2M cards and connectivity towards all gantry's and point of sale both national and international.```
+
 * other customers with similar scopes include Mensura, Delaware Consulting and Boerenbond, Ons, SBB Accounting
 
 `2008 - 2009`
 __Esas IT - Consultant__
 
-```In my role as consultant i was placed at Telindus/Belgacom as Service Level Manager. In this role i was responsible for reporting of one of their customers (Mensura).```
+In my role as consultant i was placed at Telindus/Belgacom as Service Level Manager. In this role i was responsible for reporting of one of their customers (Mensura).
 
 `2004 - 2008`
 __Versatel NV - Project Management__
 
-```Within my role in the project management team i had to coordinate the delivery of various connectivity solutions for their corporate customers. Customers included L'Oréal, Adecco, Standaard Boekhandel```
+Within my role in the project management team i had to coordinate the delivery of various connectivity solutions for their corporate customers. Customers included L'Oréal, Adecco, Standaard Boekhandel.
 
 `2003 - 2004`
 __Versatel NV - Technical Helpdesk__
 
-```This is where i started my career. In this role i was responsible for incident management and change execution for the corporate customers.```
+This is where i started my career. In this role i was responsible for incident management and change execution for the corporate customers.
 
 
-### Skills
+## Skills
 
-#### Certifications (exam passed)
+### Certifications (exam passed)
 
 * ITILv3
   * Service Strategy
@@ -79,7 +85,7 @@ __Versatel NV - Technical Helpdesk__
  * CIPP/E
  * SIAM (Service Integration and Management)
  
- #### Certified training (no exam done or involved)
+ ### Certified training (no exam done or involved)
  
  * Managing Succesful Program (MSP)
  * Risk Management
@@ -90,7 +96,7 @@ __Versatel NV - Technical Helpdesk__
  * CISM (Certified information security manager)
  * Business plan
  
- #### General Skills
+ ### General Skills
  
  * Coordinating tasks
  * Counselling
@@ -102,7 +108,7 @@ __Versatel NV - Technical Helpdesk__
  * Lead meetings
  * Evaluate people
  
- #### Personal Interests
+ ### Personal Interests
  
  * Family
  * Food (eating and cooking)
