@@ -43,18 +43,26 @@ Some of my most noteable customers are
 > Responsible for the delivery and operations of a data center infrastructure, the delivery of 1,5million M2M cards and connectivity towards all gantry's and point of sale both national and international.
 - other customers with similar scopes include Mensura, Delaware Consulting and Boerenbond, Ons, SBB Accounting
 
-### Esas IT - Consultant (Wilrijk | 2008 - 2009)
+`2008 - 2009`
+__Esas IT - Consultant__
+
 In my role as consultant i was placed at Telindus/Belgacom as Service Level Manager. In this role i was responsible for reporting of one of their customers (Mensura).
 
-### Versatel NV - Project Management (Wemmel | 2004 - 2008)
+`2004 - 2008`
+__Versatel NV - Project Management__
+
 Within my role in the project management team i had to coordinate the delivery of various connectivity solutions for their corporate customers.
 Customers included L'Oréal, Adecco, Standaard Boekhandel
 
-### Versatel NV - Technical Helpdesk (Wemmel | 2003 - 2004)
+`2003 - 2004`
+__Versatel NV - Technical Helpdesk__
+
 This is where i started my career. In this role i was responsible for incident management and change execution for the corporate customers.
 
-## Skills
-### Certifications (exam passed)
+### Skills
+
+#### Certifications (exam passed)
+
 - ITILv3
   - Service Strategy
   - Service Design
@@ -67,7 +75,9 @@ This is where i started my career. In this role i was responsible for incident m
  - CCNA (expired)
  - CIPP/E
  - SIAM (Service Integration and Management)
+ 
  ### Certified training (no exam done or involved)
+ 
  - Managing Succesful Program (MSP)
  - Risk Management
  - Information Security Management
@@ -76,7 +86,9 @@ This is where i started my career. In this role i was responsible for incident m
  - Scrum
  - CISM (Certified information security manager)
  - Business plan
+ 
  ### General Skills
+ 
  - Coordinating tasks
  - Counselling
  - Coaching
@@ -87,7 +99,8 @@ This is where i started my career. In this role i was responsible for incident m
  - Lead meetings
  - Evaluate people
  
- ## Personal Interests
+ #### Personal Interests
+ 
  - Family
  - Food (eating and cooking)
  - Technology
