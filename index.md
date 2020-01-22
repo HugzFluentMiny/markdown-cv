@@ -7,7 +7,7 @@ title: Thomas Vanderstraeten
 <div id="webaddress">
 <a href="tvds@tutanota.com">tvds@tutanota.com</a>
 | more details through an email request please.
-
+</div>
 
 ## Personal Statement
 
