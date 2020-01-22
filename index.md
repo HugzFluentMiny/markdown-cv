@@ -27,8 +27,10 @@ __Proximus - Program Manager__
  
 `2009 - 2019`
 __Proximus - Service Delivery Manager__
+
 In my role as Service Delivery Manager i was responsible for many high profile Proximus customers. A short description of my tasks can be found below each customer. Communication and reporting to higher management and C-level is not mentioned as i consider this implied.
 Some of my most noteable customers are
+
 - Accenture - Atrias
 > Responsible for delivery and operations of a data center infrastructure for building a clearing house for the Belgian energy market.
 - Belgian Mobile ID - Service Delivery Manage
