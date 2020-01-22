@@ -26,7 +26,7 @@ environment for a Proximus customer to date!
     - Financials (P&L)
 
 ### Proximus - Service Delivery Manager (Brussels | 2009 - 2019)
-In my role as Service Delivery Manager i was responsible for many high profile Proximus customers. My tasks include: the correct execution of contractual agreements, correct delivery of projects, communication to different managerial levels (including C-Level) and managing virtual teams.
+In my role as Service Delivery Manager i was responsible for many high profile Proximus customers. A short description of my tasks can be found below each customer. Communication and reporting to higher management and C-level is not mentioned as i consider this implied.
 Some of my most noteable customers are
 - Accenture - Atrias
 > Responsible for delivery and operations of a data center infrastructure for building a clearing house for the Belgian energy market.
@@ -37,71 +37,55 @@ Some of my most noteable customers are
 - Nationale Loterij België
 > Responsible for the correct execution of all contractual defined ITIL services and continual service improvement in specific
 - Satellic NV
-> Responsible for the delivery and operations of a data center infrastructure along with the roll of 1,5million M2M cards and connectivity towards all gantry's and point of sale along the belgian (and international) highways.
-- other customers with similar scopes include Mensura, Delaware Consulting and Boerenbond
+> Responsible for the delivery and operations of a data center infrastructure, the delivery of 1,5million M2M cards and connectivity towards all gantry's and point of sale both national and international.
+- other customers with similar scopes include Mensura, Delaware Consulting and Boerenbond, Ons, SBB Accounting
 
+### Esas IT - Consultant (Wilrijk | 2008 - 2009)
+In my role as consultant i was placed at Telindus/Belgacom as Service Level Manager. In this role i was responsible for reporting of one of their customers (Mensura).
 
-## Education
+### Versatel NV - Project Management (Wemmel | 2004 - 2008)
+Within my role in the project management team i had to coordinate the delivery of various connectivity solutions for their corporate customers.
+Customers included L'Oréal, Adecco, Standaard Boekhandel
 
-`1654-1660`
-__The King's School, Grantham.__
+### Versatel NV - Technical Helpdesk (Wemmel | 2003 - 2004)
+This is where i started my career. In this role i was responsible for incident management and change execution for the corporate customers.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Skills
+### Certifications (exam passed)
+- ITILv3
+  - Service Strategy
+  - Service Design
+  - Service Transition
+  - Service Operation
+  - Continual Service Improvement
+  - Managing across the lifecycles (Expert)
+ - ISO27001:2011 foundation
+ - Prince2 Foundation
+ - CCNA (expired)
+ - CIPP/E
+ - SIAM (Service Integration and Management)
+ ### Certified training (no exam done or involved)
+ - Managing Succesful Program (MSP)
+ - Risk Management
+ - Information Security Management
+ - Business Continuity Management Systems (ISOIEC/22301)
+ - Six Sigma (Orange Belt)
+ - Scrum
+ - CISM (Certified information security manager)
+ - Business plan
+ ### General Skills
+ - Coordinating tasks
+ - Counselling
+ - Coaching
+ - Collaboration
+ - Manage virtual teams
+ - Decision making
+ - Problem identification
+ - Lead meetings
+ - Evaluate people
+ 
+ ## Personal Interests
+ - Family
+ - Food (eating and cooking)
+ - Technology
+ > I like to tinker with everything that is technology. Currently i'm trying to understand and work with Docker / Docker-compose. Previous endavours include Splunk / Elastic Search, home servers for ad blocking, nextcloud, media server, ... Not every undertaking is as succesful as the other and i don't consider myself fluent in any of the matters. It's a hobby that allows me to know something about everything.
