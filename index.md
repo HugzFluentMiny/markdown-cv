@@ -9,18 +9,36 @@ title: Thomas Vanderstraeten
 | more details through an email request please.
 
 
-## Currently
+## Personal Statement
 
-Standing on the shoulders of giants
+I started at a helpdesk, got offered a project management role, evolved as service delivery manager, helped
+Proximus in reaching a leader position in the Belgian M2M market and delivered the largest, hosted data centre
+environment for a Proximus customer to date!
 
-### Specialized in
+## Employement
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Proximus - Program Manager (Brussels | 2019 - Present)
+- Belgian Mobile ID (Itsme Mobile App)
+  - responsible for:
+    - Operational (all involved ITIL processes)
+    - Product management
+    - Projects (steering and reporting)
+    - Financials (P&L)
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Proximus - Service Delivery Manager (Brussels | 2009 - 2019)
+In my role as Service Delivery Manager i was responsible for many high profile Proximus customers. My tasks include: the correct execution of contractual agreements, correct delivery of projects, communication to different managerial levels (including C-Level) and managing virtual teams.
+Some of my most noteable customers are
+- Accenture - Atrias
+> Responsible for delivery and operations of a data center infrastructure for building a clearing house for the Belgian energy market.
+- Belgian Mobile ID - Service Delivery Manage
+> Responsible for the operation of a data center infrastructure for running a goverment supported mobile application for authentication.
+- Nationale Bank België
+> Responsible for the operations of networking services and inventory management
+- Nationale Loterij België
+> Responsible for the correct execution of all contractual defined ITIL services and continual service improvement in specific
+- Satellic NV
+> Responsible for the delivery and operations of a data center infrastructure along with the roll of 1,5million M2M cards and connectivity towards all gantry's and point of sale along the belgian (and international) highways.
+- other customers with similar scopes include Mensura, Delaware Consulting and Boerenbond
 
 
 ## Education
