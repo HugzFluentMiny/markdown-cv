@@ -15,17 +15,17 @@ I started at a helpdesk, got offered a project management role, evolved as servi
 Proximus in reaching a leader position in the Belgian M2M market and delivered the largest, hosted data centre
 environment for a Proximus customer to date!
 
-## Employement
-
-### Proximus - Program Manager (Brussels | 2019 - Present)
+### Employement
+`2019 - Present`
+__Proximus - Program Manager__
 - Belgian Mobile ID (Itsme Mobile App)
   - responsible for:
     - Operational (all involved ITIL processes)
     - Product management
     - Projects (steering and reporting)
     - Financials (P&L)
-
-### Proximus - Service Delivery Manager (Brussels | 2009 - 2019)
+`2009 - 2019`
+__Proximus - Service Delivery Manager__
 In my role as Service Delivery Manager i was responsible for many high profile Proximus customers. A short description of my tasks can be found below each customer. Communication and reporting to higher management and C-level is not mentioned as i consider this implied.
 Some of my most noteable customers are
 - Accenture - Atrias
