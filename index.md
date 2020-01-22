@@ -105,3 +105,8 @@ This is where i started my career. In this role i was responsible for incident m
  - Food (eating and cooking)
  - Technology
  > I like to tinker with everything that is technology. Currently i'm trying to understand and work with Docker / Docker-compose. Previous endavours include Splunk / Elastic Search, home servers for ad blocking, nextcloud, media server, ... Not every undertaking is as succesful as the other and i don't consider myself fluent in any of the matters. It's a hobby that allows me to know something about everything.
+ 
+ <!-- ### Footer
+
+Last updated: January 2020 -->
+
