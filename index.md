@@ -36,18 +36,23 @@ Some of my most noteable customers are:
 
 
 * Accenture - Atrias
+
 ``` Responsible for delivery and operations of a data center infrastructure for building a clearing house for the Belgian energy market.```
 
 * Belgian Mobile ID - Service Delivery Manage
+
 ```Responsible for the operation of a data center infrastructure for running a goverment supported mobile application for authentication.```
 
 * Nationale Bank België
+
 ```Responsible for the operations of networking services and inventory management```
 
 * Nationale Loterij België
+
 ```Responsible for the correct execution of all contractual defined ITIL services and continual service improvement in specific```
 
 * Satellic NV
+
 ```Responsible for the delivery and operations of a data center infrastructure, the delivery of 1,5million M2M cards and connectivity towards all gantry's and point of sale both national and international.```
 
 * other customers with similar scopes include Mensura, Delaware Consulting and Boerenbond, Ons, SBB Accounting
