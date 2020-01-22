@@ -24,6 +24,7 @@ __Proximus - Program Manager__
     - Product management
     - Projects (steering and reporting)
     - Financials (P&L)
+ 
 `2009 - 2019`
 __Proximus - Service Delivery Manager__
 In my role as Service Delivery Manager i was responsible for many high profile Proximus customers. A short description of my tasks can be found below each customer. Communication and reporting to higher management and C-level is not mentioned as i consider this implied.
